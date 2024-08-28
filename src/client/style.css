@@ -1,0 +1,11 @@
+.background-img {
+  position: absolute;
+  background-image: url('../assets/cute-background.jpg'); /* Ensure the path is correct */
+  background-size: cover;
+  background-position: center;
+  background-color: aquamarine;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
